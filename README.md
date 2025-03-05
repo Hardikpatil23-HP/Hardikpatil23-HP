@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hardikpatil23-HP
+- 👋 Hi, I’m Hardik Patil
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me https://www.linkedin.com/in/hardik-patil-164066226/
